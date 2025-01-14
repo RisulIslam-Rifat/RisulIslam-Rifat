@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **raisulrifat25@gmail.com**
 
-- 📄 Know about my experiences [Im a student.Completing my Bsc in CSE from AIUB.](Im a student.Completing my Bsc in CSE from AIUB.)
+- 📄 Know about my experiences [Im a student.Completing my Bsc in CSE from AIUB.]
 
 - ⚡ Fun fact **Coding is hard man :)**
 
