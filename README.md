@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rifat42000&label=Profile%20views&color=0e75b6&style=flat" alt="rifat42000" /> </p>
 
-- 🌱 I’m currently learning **java Script,python**
+- 🌱 I’m currently learning **javaScript,python**
 
 - 📫 How to reach me **raisulrifat25@gmail.com**
 
-- 📄 Know about my experiences [Im a student.Completing my Bsc in CSE from AIUB.]
+- 📄 Know about my experiences [worked on some small projects. ]
 
 - ⚡ Fun fact **Coding is hard man :)**
 
