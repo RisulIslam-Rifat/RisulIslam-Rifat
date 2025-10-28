@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Raisul Islam Rifat</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rifat42000&label=Profile%20views&color=0e75b6&style=flat" alt="rifat42000" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=RisulIslam-Rifat&label=Profile%20views&color=0e75b6&style=flat" alt="RisulIslam-Rifat" /> </p>
 
 - 🌱 I’m currently learning **javaScript,python**
 
